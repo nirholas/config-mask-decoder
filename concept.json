@@ -1,0 +1,11 @@
+{
+  "slug": "config-mask-decoder",
+  "name": "Config Mask Decoder",
+  "kind": "tooling",
+  "description": "Explain the v1 u32 config mask and its fixed-width resource values.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
