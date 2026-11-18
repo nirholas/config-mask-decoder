@@ -8,7 +8,7 @@ Explain the v1 u32 config mask and its fixed-width resource values.
 
 - Source: https://github.com/nirholas/config-mask-decoder
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
